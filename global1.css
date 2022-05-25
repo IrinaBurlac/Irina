@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    height: 300vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: #734ae8;
+    background-image: linear-gradient(315deg, #734ae8 0%, #89d4cf 74%);
+    
+  
+  }
